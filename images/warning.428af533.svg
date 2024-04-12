@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="36px" viewBox="0 0 42 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="WEATHER" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="warning-icon" transform="translate(-3.000000, -6.000000)">
+            <g id="Group" transform="translate(0.000000, 2.000000)">
+                <path d="M19.8878959,6.85350684 C22.1589483,3.06841953 25.8433889,3.07231486 28.1121041,6.85350684 L43.8878959,33.1464932 C46.1589483,36.9315805 44.4118288,40 39.9929031,40 L8.00709688,40 C3.58489938,40 1.84338892,36.9276851 4.1121041,33.1464932 L19.8878959,6.85350684 Z" id="Triangle" fill="#FFC107"></path>
+                <path d="M22.672,27.6 L25.808,27.6 L26.368,15 L22.084,15 L22.672,27.6 Z M22,31.716 C22,32.92 23.008,33.956 24.24,33.956 C25.472,33.956 26.508,32.92 26.508,31.716 C26.508,30.484 25.472,29.448 24.24,29.448 C23.008,29.448 22,30.484 22,31.716 Z" id="!" fill="#333333"></path>
+            </g>
+        </g>
+    </g>
+</svg>

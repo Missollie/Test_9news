@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../проба 2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "9news",
+		"liveServer.settings.port": 5501
+	}
+}
